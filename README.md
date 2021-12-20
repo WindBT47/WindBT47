@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning DX12 and the shader of UE4.
 - 💞️ I’m looking to collaborate on noone.
-- 📫 How to reach me : BEST DON'T
+- 📫 How to reach me : BEST NOT
 
 <!---
 WindBT47/WindBT47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
